@@ -1,0 +1,5 @@
+AWS_REGION = "eu-north-1"
+S3_BUCKET_NAME = "capgemini-sprint-logs"
+AMI_ID = "ami-05d62b9bc5a6ca605"
+INSTANCE_TYPE = "t3.micro"
+KEY_NAME = "HITkey"
